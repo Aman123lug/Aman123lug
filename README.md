@@ -1,4 +1,4 @@
-![logo](https://github.com/Aman123lug/Aman123lug/blob/main/banner.jpg)
+<!-- ![logo](https://github.com/Aman123lug/Aman123lug/blob/main/desktop.jpeg) -->
 <h1 align="center">Hi 👋, I'm Aman Kumar (Data Lover)</h1>
 <h3 align="center">A Passionate Computer Science Student ,Data Scientist and Open Source Contributor from India</h3>
 
