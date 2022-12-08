@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, and Deep Learning**
 
-- 📝 I regularly write Blogs on [Hashnode["https://hashnode.com/@Aman0009"],](Hashnode["https://hashnode.com/@Aman0009"],)
+- 📝 I regularly write Blogs on [Hashnode, Civo](Hashnode, Civo)
 
 - 💬 Ask me about **about Data Science**
 
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-5bb609228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-5bb609228/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/amankumar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amankumar2002" height="30" width="40" /></a>
 <a href="https://instagram.com/lug__aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lug__aman" height="30" width="40" /></a>
-<a href="https://hashnode.com/aman0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="aman0009" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@aman0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@aman0009" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
