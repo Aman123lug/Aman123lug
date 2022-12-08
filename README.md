@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman123lug&label=Profile%20views&color=0e75b6&style=flat" alt="aman123lug" /> </p>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
  
-- 🔭 I’m currently working on **GAN Projects**
+- 🔭 I’m currently working on **Open Source Projects** and **GAN Projects**
 
 - 🌱 I’m currently learning **DevOps, and Deep Learning**
 
