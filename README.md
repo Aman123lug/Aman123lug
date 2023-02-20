@@ -30,7 +30,11 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
-https://cdn.hashnode.com/res/hashnode/image/upload/v1676922460731/2b40dad6-0314-4bf9-9368-f1960763548e.pnghttps://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AIIC6wCqkQc/upload/5bb77d26d0ed65b680ae5af46b93d7ed.jpeghttps://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HfWA-Axq6Ek/upload/394b3d487195f06e5abe72cb38214f80.jpeghttps://cdn.hashnode.com/res/hashnode/image/stock/unsplash/drwpcjkvxuU/upload/2ccb9e492d88fccd71b8502c4449e59f.jpeghttps://cdn.hashnode.com/res/hashnode/image/unsplash/9cXMJHaViTM/upload/v1669452123250/vXKy-Xb59.jpeg
+- [What is Prompt Engineering ?](https://amanblog.hashnode.dev/what-is-prompt-engineering)
+- [How to install Android Studio in Any Operating System](https://amanblog.hashnode.dev/how-to-install-android-studio-in-any-operating-system)
+- [Android App Development tutorial - 1](https://amanblog.hashnode.dev/android-app-development-tutorial-1)
+- [This is How ChatGPT Trained !](https://amanblog.hashnode.dev/this-is-how-chatgpt-trained)
+- [Learn Kubernetes in 2 mins](https://amanblog.hashnode.dev/learn-kubernetes-in-2-mins)
 <!-- BLOG-POST-LIST:END -->
   
 
