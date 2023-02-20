@@ -29,10 +29,6 @@
 
 <h2> <a href="https://swapnoneel.hashnode.dev/"><img src="https://github.com/Swpn0neel/Swpn0neel/blob/main/hashnodelogo.png" title="Hashnode" alt="Hashnode blog" width="18.2"/></a> Recent Blogs on Hashnode </h2>
   
-## Hashnode Blog Post
-<!-- HASHNODE:START -->
-
-<!-- HASHNODE:END -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman123lug&show_icons=true&locale=en&layout=compact" alt="aman123lug" /></p>
