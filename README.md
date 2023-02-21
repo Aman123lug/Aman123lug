@@ -30,11 +30,11 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
-- [Nhost: Alternative of Firebase with GraphQL](https://amanblog.hashnode.dev/nhost-alternative-of-firebase-with-graphql)
-- [What is Prompt Engineering ?](https://amanblog.hashnode.dev/what-is-prompt-engineering)
-- [How to install Android Studio in Any Operating System](https://amanblog.hashnode.dev/how-to-install-android-studio-in-any-operating-system)
-- [Android App Development tutorial - 1](https://amanblog.hashnode.dev/android-app-development-tutorial-1)
-- [This is How ChatGPT Trained !](https://amanblog.hashnode.dev/this-is-how-chatgpt-trained)
+- [How One Language Has Dominated the Tech Industry](https://amanblog.hashnode.dev/how-one-language-has-dominated-the-tech-industry)
+- [Continuous Delivery: Strategies for Implementing a DevOps Approach](https://amanblog.hashnode.dev/continuous-delivery-strategies-for-implementing-a-devops-approach)
+- [Navigating the Job Search as a Developer: Tips and Strategies for Success](https://amanblog.hashnode.dev/navigating-the-job-search-as-a-developer-tips-and-strategies-for-success)
+- [5 Essential Tools Every Developer Should Have in Their Toolbox](https://amanblog.hashnode.dev/5-essential-tools-every-developer-should-have-in-their-toolbox)
+- [Top 10 Lessons Every Programmer Should Know](https://amanblog.hashnode.dev/top-10-lessons-every-programmer-should-know)
 <!-- BLOG-POST-LIST:END -->
   
 
