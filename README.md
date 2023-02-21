@@ -30,11 +30,11 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
+- [Nhost: Alternative of Firebase with GraphQL](https://amanblog.hashnode.dev/nhost-alternative-of-firebase-with-graphql)
 - [What is Prompt Engineering ?](https://amanblog.hashnode.dev/what-is-prompt-engineering)
 - [How to install Android Studio in Any Operating System](https://amanblog.hashnode.dev/how-to-install-android-studio-in-any-operating-system)
 - [Android App Development tutorial - 1](https://amanblog.hashnode.dev/android-app-development-tutorial-1)
 - [This is How ChatGPT Trained !](https://amanblog.hashnode.dev/this-is-how-chatgpt-trained)
-- [Learn Kubernetes in 2 mins](https://amanblog.hashnode.dev/learn-kubernetes-in-2-mins)
 <!-- BLOG-POST-LIST:END -->
   
 
