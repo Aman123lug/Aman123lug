@@ -30,11 +30,11 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
+- [How to use dvc in Your Projects ? &lpar; Data Version Control &rpar;](https://amanblog.hashnode.dev/how-to-use-dvc-in-your-projects-data-version-control)
 - [Track Your Data with DVC - DVC Tutorial](https://amanblog.hashnode.dev/track-your-data-with-dvc-dvc-tutorial)
 - [What Data Version Control - dvc?](https://amanblog.hashnode.dev/what-data-version-control-dvc)
 - [5 Industries Where Python is Leading the Way](https://amanblog.hashnode.dev/5-industries-where-python-is-leading-the-way)
 - [How One Language Has Dominated the Tech Industry](https://amanblog.hashnode.dev/how-one-language-has-dominated-the-tech-industry)
-- [Continuous Delivery: Strategies for Implementing a DevOps Approach](https://amanblog.hashnode.dev/continuous-delivery-strategies-for-implementing-a-devops-approach)
 <!-- BLOG-POST-LIST:END -->
   
 
