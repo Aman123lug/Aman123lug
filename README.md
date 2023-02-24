@@ -30,11 +30,11 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
+- [100 Must-Know DSA and Dynamic Programming Questions to Secure Your Spot at FAANG and Beyond](https://amanblog.hashnode.dev/100-must-know-dsa-and-dynamic-programming-questions-to-secure-your-spot-at-faang-and-beyond)
 - [Introduction to Computer Networking](https://amanblog.hashnode.dev/introduction-to-computer-networking)
 - [How to use dvc in Your Projects ? &lpar; Data Version Control &rpar;](https://amanblog.hashnode.dev/how-to-use-dvc-in-your-projects-data-version-control)
 - [Track Your Data with DVC - DVC Tutorial](https://amanblog.hashnode.dev/track-your-data-with-dvc-dvc-tutorial)
 - [What Data Version Control - dvc?](https://amanblog.hashnode.dev/what-data-version-control-dvc)
-- [5 Industries Where Python is Leading the Way](https://amanblog.hashnode.dev/5-industries-where-python-is-leading-the-way)
 <!-- BLOG-POST-LIST:END -->
   
 
