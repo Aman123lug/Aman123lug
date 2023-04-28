@@ -30,11 +30,11 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
+- [What is the Recurrence Relation?](https://amanblog.hashnode.dev/what-is-the-recurrence-relation)
 - [Why does Kubernetes need Prometheus And Grafana?](https://amanblog.hashnode.dev/why-does-kubernetes-need-prometheus-and-grafana)
 - [Learn GANs-Generative Adversarial Networks by Building a project](https://amanblog.hashnode.dev/learn-gans-generative-adversarial-networks-by-building-a-project)
 - [100 Must-Know DSA and Dynamic Programming Questions to Secure Your Spot at FAANG and Beyond](https://amanblog.hashnode.dev/100-must-know-dsa-and-dynamic-programming-questions-to-secure-your-spot-at-faang-and-beyond)
 - [Introduction to Computer Networking](https://amanblog.hashnode.dev/introduction-to-computer-networking)
-- [How to use dvc in Your Projects ? &lpar; Data Version Control &rpar;](https://amanblog.hashnode.dev/how-to-use-dvc-in-your-projects-data-version-control)
 <!-- BLOG-POST-LIST:END -->
   
 
