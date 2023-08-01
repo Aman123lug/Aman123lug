@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps, and Deep Learning**
 
-- 📝 I regularly write Blogs on ([Hashnode](https://hashnode.com/@Aman0009), Civo)
+- 📝 I regularly write Blogs on ([Hashnode](https://hashnode.com/@Aman0009))
 
 - 💬 Ask me about **about Data Science**
 
