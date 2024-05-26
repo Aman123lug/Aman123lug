@@ -30,10 +30,10 @@
 
 ## Recent Hashnode Blog Post ✌️
 <!-- BLOG-POST-LIST:START -->
+- [GANs-Generative Adversarial Networks and Their Implementation](https://amanblog.hashnode.dev/gans-generative-adversarial-networks-and-their-implementation)
 - [AI &#39;godfather&#39; quits Google over dangers of Artificial Intelligence - BBC News](https://amanblog.hashnode.dev/ai-godfather-quits-google-over-dangers-of-artificial-intelligence-bbc-news)
 - [What is the Recurrence Relation?](https://amanblog.hashnode.dev/what-is-the-recurrence-relation)
 - [Why does Kubernetes need Prometheus And Grafana?](https://amanblog.hashnode.dev/why-does-kubernetes-need-prometheus-and-grafana)
-- [Learn GANs-Generative Adversarial Networks by Building a project](https://amanblog.hashnode.dev/learn-gans-generative-adversarial-networks-by-building-a-project)
 - [100 Must-Know DSA and Dynamic Programming Questions to Secure Your Spot at FAANG and Beyond](https://amanblog.hashnode.dev/100-must-know-dsa-and-dynamic-programming-questions-to-secure-your-spot-at-faang-and-beyond)
 <!-- BLOG-POST-LIST:END -->
   
